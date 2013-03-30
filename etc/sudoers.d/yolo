@@ -1,0 +1,1 @@
+%users	ALL = NOPASSWD: /bin/rm
