@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+#cp - Create sPace
+rm -rf $@
+
